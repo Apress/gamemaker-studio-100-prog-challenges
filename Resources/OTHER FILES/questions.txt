@@ -1,0 +1,15 @@
+What is the capital of England?
+Paris
+London
+New York
+2
+At what temperature does what freeze?
+0
+-20
++10
+1
+Which is the tallest montain?
+Bob
+Steve
+Everest
+3
