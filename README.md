@@ -2,7 +2,7 @@
 
 This repository accompanies [*GameMaker: Studio 100 Programming Challenges*](http://www.apress.com/9781484226438) by Ben Tyers (Apress, 2017).
 
-![Cover image](9781484226438.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
